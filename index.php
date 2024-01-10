@@ -86,8 +86,8 @@ $data3 = json_decode($response, true);
         <header class="masthead">
             <div class="container">
                 <div class="masthead-subheading">Bienvenido</div>
-                <div class="masthead-heading text-uppercase">LADRILLO ECOLOGICO</div>
-                <div class="masthead-heading text-uppercase">"Construyendo un futuro sostenible, ladrillo a ladrillo, en armonía con la naturaleza."
+                <div class="masthead-heading text-uppercase">PANADERIA</div>
+                <div class="masthead-heading text-uppercase">"Los mas delicios y exquisitos"
 
 
 
